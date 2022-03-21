@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IamRedish
+- 👀 I’m interested in Competitive Programming
+- 🌱 I’m currently learning Competitive Programming
+- 💞️ I’m looking to collaborate on Competitive Programming
+- 📫 How to reach me iamredish@gmail.com
